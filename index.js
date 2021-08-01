@@ -19,5 +19,8 @@ class Car {
 //Create Variable
 
 var mySweetRide = new Car ('Pontiac', 'Fiero', 1988)
+
+//called methods
+
 mySweetRide.honk()
 mySweetRide.performMaintenance()
